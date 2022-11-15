@@ -1,2 +1,2 @@
 polar:
-  catalog-service-url: "http://localhost:9001"
+  catalog-service-url: "http://localhost:9000"
